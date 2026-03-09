@@ -2,7 +2,7 @@
 
 This is my personal portfolio website created using **HTML** and **basic CSS**. The website is designed to introduce myself and provide a simple way for visitors to get in touch with me.
 
-## Pages
+#portfolio simple website
 
 **Home Page**
 
@@ -29,6 +29,6 @@ The goal of this project is to practice and demonstrate my **basic front-end dev
 * Add JavaScript for better interactivity
 
 ## Author
-        manju ragavi S
+        
 
 Created b
